@@ -1,0 +1,9 @@
+C:\Users\HC\Documents\Visual Studio 2017\Projects\firstApp\bin\Debug\netcoreapp1.1\firstApp.deps.json
+C:\Users\HC\Documents\Visual Studio 2017\Projects\firstApp\bin\Debug\netcoreapp1.1\firstApp.runtimeconfig.json
+C:\Users\HC\Documents\Visual Studio 2017\Projects\firstApp\bin\Debug\netcoreapp1.1\firstApp.runtimeconfig.dev.json
+C:\Users\HC\Documents\Visual Studio 2017\Projects\firstApp\bin\Debug\netcoreapp1.1\firstApp.dll
+C:\Users\HC\Documents\Visual Studio 2017\Projects\firstApp\bin\Debug\netcoreapp1.1\firstApp.pdb
+C:\Users\HC\Documents\Visual Studio 2017\Projects\firstApp\obj\Debug\netcoreapp1.1\firstApp.AssemblyInfo.cs
+C:\Users\HC\Documents\Visual Studio 2017\Projects\firstApp\obj\Debug\netcoreapp1.1\firstApp.dll
+C:\Users\HC\Documents\Visual Studio 2017\Projects\firstApp\obj\Debug\netcoreapp1.1\firstApp.pdb
+C:\Users\HC\Documents\Visual Studio 2017\Projects\firstApp\obj\Debug\netcoreapp1.1\firstApp.csprojResolveAssemblyReference.cache
